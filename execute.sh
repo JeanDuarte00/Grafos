@@ -1,0 +1,1 @@
+gcc -w grafos_unicap_main.c grafos_unicap_func-proc.c -o grafos_unicap && ./grafos_unicap
